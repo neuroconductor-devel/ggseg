@@ -21,3 +21,7 @@ vignettes/geom-sf*
 ^CRAN-RELEASE$
 dev
 ^CRAN-SUBMISSION$
+^DESCRIPTION\.bak$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
